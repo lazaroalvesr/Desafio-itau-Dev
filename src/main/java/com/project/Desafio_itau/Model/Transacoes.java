@@ -1,7 +1,6 @@
 package com.project.Desafio_itau.Model;
 import jakarta.persistence.*;
 
-import java.sql.Timestamp;
 import java.time.OffsetDateTime;
 import java.util.UUID;
 
